@@ -2,7 +2,7 @@ import { Configuration, OpenAIApi } from "openai";
 
 // Configurar la clave de la API
 const configuration = new Configuration({
-  apiKey: "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",
+  apiKey: "",
 });
 
 // Inicializar OpenAIApi con la configuración
